@@ -43,7 +43,7 @@ Here are a few highlights from my portfolio that showcase my skills:
     * [Link to Project Repository](https://github.com/Naveen-DS08/RAG_for_Investment_evaluation.git)
 
 * **Cold e-mail Generation:** Developed an AI-powered Cold Email Generator that extracts job requirements from URLs and intelligently integrates portfolio links. Automated personalized outreach, significantly streamlining the job application process.
-    * [Link to Project Repository](https://github.com/Naveen-DS08/Cold_e-mail_Generator.git)
+    * [Link to Project Repository](https://github.com/Naveen-DS08/Generative_AI.git)
 
 
 ## Connect with Me
