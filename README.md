@@ -28,6 +28,23 @@ I specialize in building and deploying production-ready machine learning systems
 * **Version Control:** Git 🌳, GitHub 🐙
 * **Other:** Streamlit ⚙️ (for app development)
 
+## Featured Projects
+
+Here are a few highlights from my portfolio that showcase my skills:
+
+* **Vision Transformer Paper Replication Project:** Engineered and implemented the complete Vision Transformer (ViT) architecture from scratch, replicating a foundational ML paper. This project significantly enhanced my expertise in deep learning model design and intricate neural network construction.
+    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/VIT_paper_replication.git)
+
+* **End-to-End Machine Learning Projects:** Developed and deployed a fully automated ML pipeline on AWS. Implemented CI/CD, Data versioning using DagsHub, model tracking using MLflow, Docker for containerization, and AWS services, ensuring scalable and reproducible deployment on EC2.
+    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/end-to-end-ML_project.git)
+
+* **Pitch Deck Analyst (RAG for Investment Evaluation):** Developed a Streamlit-based RAG application for investment evaluation. Processed PDF pitch decks via vector embeddings for efficient retrieval and LLM-powered Q&A, automating key investment detail extraction.
+    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/RAG_for_Investment_evaluation.git)
+
+* **Cold e-mail Generation:** Developed an AI-powered Cold Email Generator that extracts job requirements from URLs and intelligently integrates portfolio links. Automated personalized outreach, significantly streamlining the job application process.
+    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/Cold_e-mail_Generator)
+
+
 ## Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/naveen-babu-8596](http://www.linkedin.com/in/naveen-babu-8596)
