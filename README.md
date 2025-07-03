@@ -37,13 +37,13 @@ Here are a few highlights from my portfolio that showcase my skills:
       
 
 * **End-to-End Machine Learning Projects:** Developed and deployed a fully automated ML pipeline on AWS. Implemented CI/CD, Data versioning using DagsHub, model tracking using MLflow, Docker for containerization, and AWS services, ensuring scalable and reproducible deployment on EC2.
-    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/end-to-end-ML_project.git)
+    * [Link to Project Repository](https://github.com/Naveen-DS08/end-to-end-ML_project.git)
 
 * **Pitch Deck Analyst (RAG for Investment Evaluation):** Developed a Streamlit-based RAG application for investment evaluation. Processed PDF pitch decks via vector embeddings for efficient retrieval and LLM-powered Q&A, automating key investment detail extraction.
-    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/RAG_for_Investment_evaluation.git)
+    * [Link to Project Repository](https://github.com/Naveen-DS08/RAG_for_Investment_evaluation.git)
 
 * **Cold e-mail Generation:** Developed an AI-powered Cold Email Generator that extracts job requirements from URLs and intelligently integrates portfolio links. Automated personalized outreach, significantly streamlining the job application process.
-    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/Cold_e-mail_Generator)
+    * [Link to Project Repository](https://github.com/Naveen-DS08/Cold_e-mail_Generator.git)
 
 
 ## Connect with Me
