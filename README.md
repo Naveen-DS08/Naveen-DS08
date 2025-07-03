@@ -33,7 +33,8 @@ I specialize in building and deploying production-ready machine learning systems
 Here are a few highlights from my portfolio that showcase my skills:
 
 * **Vision Transformer Paper Replication Project:** Engineered and implemented the complete Vision Transformer (ViT) architecture from scratch, replicating a foundational ML paper. This project significantly enhanced my expertise in deep learning model design and intricate neural network construction.
-    * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/VIT_paper_replication.git)
+    * [Link to Project Repository](https://github.com/Naveen-DS08/ViT_paper_replication.git)
+      
 
 * **End-to-End Machine Learning Projects:** Developed and deployed a fully automated ML pipeline on AWS. Implemented CI/CD, Data versioning using DagsHub, model tracking using MLflow, Docker for containerization, and AWS services, ensuring scalable and reproducible deployment on EC2.
     * [Link to Project Repository](https://www.google.com/search?q=https://github.com/Naveen-DS08/end-to-end-ML_project.git)
